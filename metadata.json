@@ -1,0 +1,6 @@
+{
+  "name": "PCEA St Andrew's Sunday School Check-In",
+  "description": "Sunday School child check-in, attendance, and pickup verification system for PCEA St Andrew's Church.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
